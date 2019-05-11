@@ -40,6 +40,14 @@ andares_de_baixo = areas_e_comodos[:6]
 
 print("Comodos de baixo sem indice inicial: " + str(andares_de_baixo))
 
+andares_de_baixo = areas_e_comodos[:-4]
+
+print("Comodos de baixo sem indice inicial - negativo: " + str(andares_de_baixo))
+
 andares_de_cima = areas_e_comodos[6:]
 
-print("Comodos de cima: " + str(andares_de_cima))
+print("Comodos de cima sem indice final: " + str(andares_de_cima))
+
+andares_de_cima = areas_e_comodos[-4:]
+
+print("Comodos de cima sem indice final indice - negativo: " + str(andares_de_cima))

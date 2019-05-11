@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 nome = input("Informe seu nome com espacos antes e depois: ")
 
 print("Nome com espacos: " + nome + "!")
