@@ -1,0 +1,841 @@
+REGIÃO ;PAÍS;VALOR DO CONSUMO EM BILHÕES m3;ANO
+América do Norte;Canadá;89,347225;2008
+América do Norte;Estados Unidos;628,8911777;2008
+América do Norte;México;59,99657839;2008
+Américas Central e do Sul;Argentina;43,188725;2008
+Américas Central e do Sul;Brasil;26,09712052;2008
+Américas Central e do Sul;Chile;2,7651488;2008
+Américas Central e do Sul;Colômbia;7,275114454;2008
+Américas Central e do Sul;Equador;0,416631477;2008
+Américas Central e do Sul;Peru;3,26939014;2008
+Américas Central e do Sul;Trinidad e Tobago;20,72597404;2008
+Américas Central e do Sul;Venezuela;35,12580252;2008
+Europa e Eurásia;Outros;4,654993329;2008
+Europa e Eurásia;Alemanha;89,50063031;2008
+Europa e Eurásia;Áustria;8,911821354;2008
+Europa e Eurásia;Azerbaijão;10,0345749;2008
+Europa e Eurásia;Bielorrússia;20,16139381;2008
+Europa e Eurásia;Bélgica;17,256775;2008
+Europa e Eurásia;Bulgaria;3,392125;2008
+Europa e Eurásia;Cazaquistão;10,58072381;2008
+Europa e Eurásia;Croácia;3,027038889;2008
+Europa e Eurásia;Dinamarca;4,771609952;2008
+Europa e Eurásia;Eslováquia;6,008425;2008
+Europa e Eurásia;Eslovênia;1,021397495;2008
+Europa e Eurásia;Estônia;0,8975;2008
+Europa e Eurásia;Espanha;40,59217331;2008
+Europa e Eurásia;Finlândia ;4,188055556;2008
+Europa e Eurásia;França;46,39779758;2008
+Europa e Eurásia;Grécia ;4,053409732;2008
+Europa e Eurásia;Holanda;40,25;2008
+Europa e Eurásia;Hungria;12,28225;2008
+Europa e Eurásia;Irlanda;5,220707;2008
+Europa e Eurásia;Itália;81,44357805;2008
+Europa e Eurásia;Letônia;1,575774336;2008
+Europa e Eurásia;Lituânia;3,019148;2008
+Europa e Eurásia;Luxemburgo;1,2714175;2008
+Europa e Eurásia;Macedônia;0,112955212;2008
+Europa e Eurásia;Noruega;4,2960575;2008
+Europa e Eurásia;Polônia;15,64363889;2008
+Europa e Eurásia;Portugal;4,802346206;2008
+Europa e Eurásia;República Tcheca;8,342825;2008
+Europa e Eurásia;Reino Unido;97,85013613;2008
+Europa e Eurásia;Romênia;14,14145;2008
+Europa e Eurásia;Rússia;422,7477139;2008
+Europa e Eurásia;Suécia;0,928625;2008
+Europa e Eurásia;Suíça;2,93825;2008
+Europa e Eurásia;Turquia;35,2982375;2008
+Europa e Eurásia;Turcomenistão;22,38714038;2008
+Europa e Eurásia;Ucrânia;62,74705015;2008
+Europa e Eurásia;Uzbequistão;50,94719764;2008
+Europa e Eurásia;Outros;9,42541135;2008
+Oriente Médio;Arábia Saudita;76,418;2008
+Oriente Médio;Catar;19,25652227;2008
+Oriente Médio;Coveite;12,065;2008
+Oriente Médio;Emirados Árabes Unidos;57,9721155;2008
+Oriente Médio;Irã;131,1804285;2008
+Oriente Médio;Iraque;6,457625;2008
+Oriente Médio;Israel;3,609775;2008
+Oriente Médio;Omã;13,3611294;2008
+Oriente Médio;Outros;20,72208651;2008
+África;África do Sul;3,921920371;2008
+África;África Central;2,326574009;2008
+África;África Ocidental;16,44899603;2008
+África;África Oriental;0,615485915;2008
+África;Argélia;24,4041875;2008
+África;Egito;39,3085;2008
+África;Marrocos;0,58785378;2008
+África;Outros Norte da África;10,98274974;2008
+Ásia-Pacífico;Austrália;28,53495793;2008
+Ásia-Pacífico;Bangladesh;16,37642015;2008
+Ásia-Pacífico;China;81,9329059;2008
+Ásia-Pacífico;Cingapura;8,714258568;2008
+Ásia-Pacífico;Coreia do Sul;37,3368357;2008
+Ásia-Pacífico;Filipinas;3,716512868;2008
+Ásia-Pacífico;Hong Kong;3,01502046;2008
+Ásia-Pacífico;Índia;39,987666;2008
+Ásia-Pacífico;Indonésia;39,69468561;2008
+Ásia-Pacífico;Japão;98,11742707;2008
+Ásia-Pacífico;Malásia;43,549698;2008
+Ásia-Pacífico;Nova Zelândia;3,997224001;2008
+Ásia-Pacífico;Paquistão;34,60761096;2008
+Ásia-Pacífico;Tailândia;36,94172563;2008
+Ásia-Pacífico;Taiwan;12,17163299;2008
+Ásia-Pacífico;Vietnã;7,236535;2008
+Ásia-Pacífico;Outros;6,346527115;2008
+América do Norte;Canadá;86,5653;2009
+América do Norte;Estados Unidos;617,6281135;2009
+América do Norte;México;65,16880111;2009
+Américas Central e do Sul;Argentina;40,98592763;2009
+Américas Central e do Sul;Brasil;21,01998023;2009
+Américas Central e do Sul;Chile;2,7949216;2009
+Américas Central e do Sul;Colômbia;8,379319708;2009
+Américas Central e do Sul;Equador;0,500061413;2009
+Américas Central e do Sul;Peru;3,343665976;2009
+Américas Central e do Sul;Trinidad e Tobago;21,55102756;2009
+Américas Central e do Sul;Venezuela;33,19560376;2009
+Europa e Eurásia;Outros;4,86017724;2009
+Europa e Eurásia;Alemanha;84,43012165;2009
+Europa e Eurásia;Áustria;8,679270266;2009
+Europa e Eurásia;Azerbaijão;8,5681464;2009
+Europa e Eurásia;Bielorrússia;16,88153815;2009
+Europa e Eurásia;Bélgica;17,574975;2009
+Europa e Eurásia;Bulgaria;2,426375;2009
+Europa e Eurásia;Cazaquistão;10,1397206;2009
+Europa e Eurásia;Croácia;2,794988889;2009
+Europa e Eurásia;Dinamarca;4,582792284;2009
+Europa e Eurásia;Eslováquia;5,14675;2009
+Europa e Eurásia;Eslovênia;0,966511793;2009
+Europa e Eurásia;Estônia;0,609555556;2009
+Europa e Eurásia;Espanha;36,30772177;2009
+Europa e Eurásia;Finlândia ;3,738;2009
+Europa e Eurásia;França;44,69463518;2009
+Europa e Eurásia;Grécia ;3,403756849;2009
+Europa e Eurásia;Holanda;40,66666667;2009
+Europa e Eurásia;Hungria;10,64363889;2009
+Europa e Eurásia;Irlanda;4,955543;2009
+Europa e Eurásia;Itália;74,86177368;2009
+Europa e Eurásia;Letônia;1,445169617;2009
+Europa e Eurásia;Lituânia;2,5372008;2009
+Europa e Eurásia;Luxemburgo;1,2937938;2009
+Europa e Eurásia;Macedônia;0,074840213;2009
+Europa e Eurásia;Noruega;4,102868;2009
+Europa e Eurásia;Polônia;15,09477778;2009
+Europa e Eurásia;Portugal;4,76935615;2009
+Europa e Eurásia;República Tcheca;7,91335;2009
+Europa e Eurásia;Reino Unido;91,24012267;2009
+Europa e Eurásia;Romênia;12,30495;2009
+Europa e Eurásia;Rússia;399,4804205;2009
+Europa e Eurásia;Suécia;1,143225;2009
+Europa e Eurásia;Suíça;2,82025;2009
+Europa e Eurásia;Turquia;33,7221925;2009
+Europa e Eurásia;Turcomenistão;20,5527111;2009
+Europa e Eurásia;Ucrânia;48,90862832;2009
+Europa e Eurásia;Uzbequistão;41,70218166;2009
+Europa e Eurásia;Outros;8,568054127;2009
+Oriente Médio;Arábia Saudita;74,5275;2009
+Oriente Médio;Catar;19,55677172;2009
+Oriente Médio;Coveite;11,846113;2009
+Oriente Médio;Emirados Árabes Unidos;57,58807275;2009
+Oriente Médio;Irã;140,5743735;2009
+Oriente Médio;Iraque;6,85273;2009
+Oriente Médio;Israel;4,00235;2009
+Oriente Médio;Omã;13,71760945;2009
+Oriente Médio;Outros;22,66676126;2009
+África;África do Sul;3,323995371;2009
+África;África Central;2,481980509;2009
+África;África Ocidental;11,16269297;2009
+África;África Oriental;0,726969795;2009
+África;Argélia;26,2117625;2009
+África;Egito;40,94475;2009
+África;Marrocos;0,645779852;2009
+África;Outros Norte da África;11,6799171;2009
+Ásia-Pacífico;Austrália;29,1364343;2009
+Ásia-Pacífico;Bangladesh;18,74673831;2009
+Ásia-Pacífico;China;90,22402998;2009
+Ásia-Pacífico;Cingapura;9,180641335;2009
+Ásia-Pacífico;Coreia do Sul;35,4915036;2009
+Ásia-Pacífico;Filipinas;3,742460376;2009
+Ásia-Pacífico;Hong Kong;2,928131998;2009
+Ásia-Pacífico;Índia;48,3378177;2009
+Ásia-Pacífico;Indonésia;42,10080502;2009
+Ásia-Pacífico;Japão;91,52816515;2009
+Ásia-Pacífico;Malásia;40,022319;2009
+Ásia-Pacífico;Nova Zelândia;4,179724285;2009
+Ásia-Pacífico;Paquistão;34,70166906;2009
+Ásia-Pacífico;Tailândia;38,12444324;2009
+Ásia-Pacífico;Taiwan;11,88637815;2009
+Ásia-Pacífico;Vietnã;7,72965;2009
+Ásia-Pacífico;Outros;5,48211547;2009
+América do Norte;Canadá;88,73225;2010
+América do Norte;Estados Unidos;648,1934509;2010
+América do Norte;México;66,04454003;2010
+Américas Central e do Sul;Argentina;42,19748065;2010
+Américas Central e do Sul;Brasil;28,0455845;2010
+Américas Central e do Sul;Chile;5,7397539;2010
+Américas Central e do Sul;Colômbia;8,74513777;2010
+Américas Central e do Sul;Equador;0,519234752;2010
+Américas Central e do Sul;Peru;4,8577341;2010
+Américas Central e do Sul;Trinidad e Tobago;22,53839178;2010
+Américas Central e do Sul;Venezuela;32,22998863;2010
+Europa e Eurásia;Outros;5,228495716;2010
+Europa e Eurásia;Alemanha;88,07125;2010
+Europa e Eurásia;Áustria;9,446672088;2010
+Europa e Eurásia;Azerbaijão;8,14487505;2010
+Europa e Eurásia;Bielorrússia;20,74161805;2010
+Europa e Eurásia;Bélgica;19,761475;2010
+Europa e Eurásia;Bulgaria;2,672275;2010
+Europa e Eurásia;Cazaquistão;11,02429848;2010
+Europa e Eurásia;Croácia;3,061416667;2010
+Europa e Eurásia;Dinamarca;5,183978527;2010
+Europa e Eurásia;Eslováquia;5,822475;2010
+Europa e Eurásia;Eslovênia;1,002804413;2010
+Europa e Eurásia;Estônia;0,65425;2010
+Europa e Eurásia;Espanha;36,19646815;2010
+Europa e Eurásia;Finlândia ;4,13;2010
+Europa e Eurásia;França;49,55798853;2010
+Europa e Eurásia;Grécia ;3,73023225;2010
+Europa e Eurásia;Holanda;45,63888889;2010
+Europa e Eurásia;Hungria;11,41541667;2010
+Europa e Eurásia;Irlanda;5,467263;2010
+Europa e Eurásia;Itália;79,72950236;2010
+Europa e Eurásia;Letônia;1,723414454;2010
+Europa e Eurásia;Lituânia;2,898196;2010
+Europa e Eurásia;Luxemburgo;1,391630375;2010
+Europa e Eurásia;Macedônia;0,110853671;2010
+Europa e Eurásia;Noruega;4,082413075;2010
+Europa e Eurásia;Polônia;16,23263889;2010
+Europa e Eurásia;Portugal;5,188759508;2010
+Europa e Eurásia;República Tcheca;9,384875;2010
+Europa e Eurásia;Reino Unido;98,51057169;2010
+Europa e Eurásia;Romênia;12,5469;2010
+Europa e Eurásia;Rússia;422,5993845;2010
+Europa e Eurásia;Suécia;1,54625;2010
+Europa e Eurásia;Suíça;3,15025;2010
+Europa e Eurásia;Turquia;35,8210325;2010
+Europa e Eurásia;Turcomenistão;23,65871374;2010
+Europa e Eurásia;Ucrânia;54,56059489;2010
+Europa e Eurásia;Uzbequistão;42,70868977;2010
+Europa e Eurásia;Outros;8,824240743;2010
+Oriente Médio;Arábia Saudita;83,277;2010
+Oriente Médio;Catar;24,74634616;2010
+Oriente Médio;Coveite;13,97553795;2010
+Oriente Médio;Emirados Árabes Unidos;59,27164425;2010
+Oriente Médio;Irã;150,5807915;2010
+Oriente Médio;Iraque;7,13526;2010
+Oriente Médio;Israel;5,11305;2010
+Oriente Médio;Omã;16,29945695;2010
+Oriente Médio;Outros;25,20684793;2010
+África;África do Sul;4,122056082;2010
+África;África Central;2,855340557;2010
+África;África Ocidental;12,98696305;2010
+África;África Oriental;0,843804187;2010
+África;Argélia;25,327225;2010
+África;Egito;43,418375;2010
+África;Marrocos;0,69751451;2010
+África;Outros Norte da África;12,28515481;2010
+Ásia-Pacífico;Austrália;33,78362544;2010
+Ásia-Pacífico;Bangladesh;19,25372713;2010
+Ásia-Pacífico;China;108,8740549;2010
+Ásia-Pacífico;Cingapura;8,336057303;2010
+Ásia-Pacífico;Coreia do Sul;45,0164736;2010
+Ásia-Pacífico;Filipinas;3,524956811;2010
+Ásia-Pacífico;Hong Kong;3,638889504;2010
+Ásia-Pacífico;Índia;59,48843131;2010
+Ásia-Pacífico;Indonésia;44,04758702;2010
+Ásia-Pacífico;Japão;98,92029766;2010
+Ásia-Pacífico;Malásia;39,754829;2010
+Ásia-Pacífico;Nova Zelândia;4,482121093;2010
+Ásia-Pacífico;Paquistão;35,34839533;2010
+Ásia-Pacífico;Tailândia;43,20556292;2010
+Ásia-Pacífico;Taiwan;14,75910053;2010
+Ásia-Pacífico;Vietnã;9,07293;2010
+Ásia-Pacífico;Outros;6,798414757;2010
+América do Norte;Canadá;95,5522;2011
+América do Norte;Estados Unidos;658,2108105;2011
+América do Norte;México;70,80849083;2011
+Américas Central e do Sul;Argentina;43,96119004;2011
+Américas Central e do Sul;Brasil;27,95064319;2011
+Américas Central e do Sul;Chile;5,8365155;2011
+Américas Central e do Sul;Colômbia;8,514971457;2011
+Américas Central e do Sul;Equador;0,458864643;2011
+Américas Central e do Sul;Peru;5,351050553;2011
+Américas Central e do Sul;Trinidad e Tobago;22,65465926;2011
+Américas Central e do Sul;Venezuela;32,58827721;2011
+Europa e Eurásia;Outros;5,789464486;2011
+Europa e Eurásia;Alemanha;80,86072222;2011
+Europa e Eurásia;Áustria;8,885535477;2011
+Europa e Eurásia;Azerbaijão;8,9201289;2011
+Europa e Eurásia;Bielorrússia;19,25510324;2011
+Europa e Eurásia;Bélgica;16,50672183;2011
+Europa e Eurásia;Bulgaria;3,05945;2011
+Europa e Eurásia;Cazaquistão;12,16170339;2011
+Europa e Eurásia;Croácia;2,989166667;2011
+Europa e Eurásia;Dinamarca;4,347364559;2011
+Europa e Eurásia;Eslováquia;5,3929;2011
+Europa e Eurásia;Eslovênia;0,858058934;2011
+Europa e Eurásia;Estônia;0,589833333;2011
+Europa e Eurásia;Espanha;33,64608333;2011
+Europa e Eurásia;Finlândia ;3,612;2011
+Europa e Eurásia;França;43,02676021;2011
+Europa e Eurásia;Grécia ;4,59981595;2011
+Europa e Eurásia;Holanda;39,83333333;2011
+Europa e Eurásia;Hungria;10,91352778;2011
+Europa e Eurásia;Irlanda;4,809005;2011
+Europa e Eurásia;Itália;74,75954305;2011
+Europa e Eurásia;Letônia;1,518043265;2011
+Europa e Eurásia;Lituânia;3,1619644;2011
+Europa e Eurásia;Luxemburgo;1,200527575;2011
+Europa e Eurásia;Macedônia;0,128252151;2011
+Europa e Eurásia;Noruega;4,018927636;2011
+Europa e Eurásia;Polônia;16,45252778;2011
+Europa e Eurásia;Portugal;5,253681687;2011
+Europa e Eurásia;República Tcheca;7,91905;2011
+Europa e Eurásia;Reino Unido;81,93325282;2011
+Europa e Eurásia;Romênia;12,915175;2011
+Europa e Eurásia;Rússia;435,5657572;2011
+Europa e Eurásia;Suécia;1,253675;2011
+Europa e Eurásia;Suíça;2,79425;2011
+Europa e Eurásia;Turquia;41,8398775;2011
+Europa e Eurásia;Turcomenistão;24,62262334;2011
+Europa e Eurásia;Ucrânia;56,12690511;2011
+Europa e Eurásia;Uzbequistão;44,14534169;2011
+Europa e Eurásia;Outros;9,643785875;2011
+Oriente Médio;Arábia Saudita;87,647;2011
+Oriente Médio;Catar;27,33584243;2011
+Oriente Médio;Coveite;15,86531435;2011
+Oriente Médio;Emirados Árabes Unidos;61,63614396;2011
+Oriente Médio;Irã;159,761484;2011
+Oriente Médio;Iraque;6,30192;2011
+Oriente Médio;Israel;4,7492;2011
+Oriente Médio;Omã;18,11364867;2011
+Oriente Médio;Outros;22,21138639;2011
+África;África do Sul;4,280949296;2011
+África;África Central;3,0116;2011
+África;África Ocidental;14,47994481;2011
+África;África Oriental;0,955031734;2011
+África;Argélia;26,7969625;2011
+África;Egito;47,75925;2011
+África;Marrocos;0,882871328;2011
+África;Outros Norte da África;10,14815859;2011
+Ásia-Pacífico;Austrália;35,28308142;2011
+Ásia-Pacífico;Bangladesh;19,5821495;2011
+Ásia-Pacífico;China;135,1628721;2011
+Ásia-Pacífico;Cingapura;8,28712437;2011
+Ásia-Pacífico;Coreia do Sul;48,4454628;2011
+Ásia-Pacífico;Filipinas;3,805851468;2011
+Ásia-Pacífico;Hong Kong;2,898040577;2011
+Ásia-Pacífico;Índia;61,32021961;2011
+Ásia-Pacífico;Indonésia;42,73430073;2011
+Ásia-Pacífico;Japão;110,4321621;2011
+Ásia-Pacífico;Malásia;38,317361;2011
+Ásia-Pacífico;Nova Zelândia;4,047385276;2011
+Ásia-Pacífico;Paquistão;35,33964684;2011
+Ásia-Pacífico;Tailândia;44,3180607;2011
+Ásia-Pacífico;Taiwan;16,24662815;2011
+Ásia-Pacífico;Vietnã;8,1832;2011
+Ásia-Pacífico;Outros;7,507100763;2011
+América do Norte;Canadá;92,827625;2012
+América do Norte;Estados Unidos;688,1227781;2012
+América do Norte;México;73,65377033;2012
+Américas Central e do Sul;Argentina;45,72279439;2012
+Américas Central e do Sul;Brasil;33,13033433;2012
+Américas Central e do Sul;Chile;5,3008377;2012
+Américas Central e do Sul;Colômbia;9,465897678;2012
+Américas Central e do Sul;Equador;0,601887389;2012
+Américas Central e do Sul;Peru;5,989854348;2012
+Américas Central e do Sul;Trinidad e Tobago;21,60611273;2012
+Américas Central e do Sul;Venezuela;34,04447465;2012
+Europa e Eurásia;Outros;6,317421762;2012
+Europa e Eurásia;Alemanha;81,11005556;2012
+Europa e Eurásia;Áustria;8,47508895;2012
+Europa e Eurásia;Azerbaijão;9,36144555;2012
+Europa e Eurásia;Bielorrússia;19,49147505;2012
+Europa e Eurásia;Bélgica;16,70067093;2012
+Europa e Eurásia;Bulgaria;2,851225;2012
+Europa e Eurásia;Cazaquistão;12,95282831;2012
+Europa e Eurásia;Croácia;2,806605556;2012
+Europa e Eurásia;Dinamarca;4,060289214;2012
+Europa e Eurásia;Eslováquia;5,076875;2012
+Europa e Eurásia;Eslovênia;0,825338593;2012
+Europa e Eurásia;Estônia;0,613777778;2012
+Europa e Eurásia;Espanha;33,22561414;2012
+Europa e Eurásia;Finlândia ;3,1945;2012
+Europa e Eurásia;França;44,45276846;2012
+Europa e Eurásia;Grécia ;4,227578635;2012
+Europa e Eurásia;Holanda;37,72222222;2012
+Europa e Eurásia;Hungria;9,739972222;2012
+Europa e Eurásia;Irlanda;4,690337695;2012
+Europa e Eurásia;Itália;71,87911547;2012
+Europa e Eurásia;Letônia;1,427187807;2012
+Europa e Eurásia;Lituânia;3,0874161;2012
+Europa e Eurásia;Luxemburgo;1,222372175;2012
+Europa e Eurásia;Macedônia;0,133084416;2012
+Europa e Eurásia;Noruega;4,002310342;2012
+Europa e Eurásia;Polônia;17,41936111;2012
+Europa e Eurásia;Portugal;4,555491532;2012
+Europa e Eurásia;República Tcheca;7,97365;2012
+Europa e Eurásia;Reino Unido;76,91258073;2012
+Europa e Eurásia;Romênia;12,5341;2012
+Europa e Eurásia;Rússia;429,6428585;2012
+Europa e Eurásia;Suécia;1,0924;2012
+Europa e Eurásia;Suíça;3,063;2012
+Europa e Eurásia;Turquia;43,319215;2012
+Europa e Eurásia;Turcomenistão;27,5209;2012
+Europa e Eurásia;Ucrânia;51,83871681;2012
+Europa e Eurásia;Uzbequistão;43,66848777;2012
+Europa e Eurásia;Outros;9,926846645;2012
+Oriente Médio;Arábia Saudita;94,3635;2012
+Oriente Médio;Catar;33,72488224;2012
+Oriente Médio;Coveite;17,53184121;2012
+Oriente Médio;Emirados Árabes Unidos;63,93075;2012
+Oriente Médio;Irã;159,0866605;2012
+Oriente Médio;Iraque;6,341345;2012
+Oriente Médio;Israel;2,441625;2012
+Oriente Médio;Omã;19,68708904;2012
+Oriente Médio;Outros;20,53961775;2012
+África;África do Sul;4,35732889;2012
+África;África Central;3,19535;2012
+África;África Ocidental;14,96999918;2012
+África;África Oriental;1,099139201;2012
+África;Argélia;29,874075;2012
+África;Egito;50,637125;2012
+África;Marrocos;1,180759733;2012
+África;Outros Norte da África;10,90774117;2012
+Ásia-Pacífico;Austrália;35,39067949;2012
+Ásia-Pacífico;Bangladesh;21,33627925;2012
+Ásia-Pacífico;China;150,8775822;2012
+Ásia-Pacífico;Cingapura;8,93;2012
+Ásia-Pacífico;Coreia do Sul;52,5286395;2012
+Ásia-Pacífico;Filipinas;3,648458274;2012
+Ásia-Pacífico;Hong Kong;2,668614145;2012
+Ásia-Pacífico;Índia;56,6575204;2012
+Ásia-Pacífico;Indonésia;42,88371549;2012
+Ásia-Pacífico;Japão;122,4077025;2012
+Ásia-Pacífico;Malásia;42,015701;2012
+Ásia-Pacífico;Nova Zelândia;4,416688715;2012
+Ásia-Pacífico;Paquistão;36,59723057;2012
+Ásia-Pacífico;Tailândia;48,6335029;2012
+Ásia-Pacífico;Taiwan;17,05257599;2012
+Ásia-Pacífico;Vietnã;9,027575;2012
+Ásia-Pacífico;Outros;8,530542354;2012
+América do Norte;Canadá;98,008325;2013
+América do Norte;Estados Unidos;707,0228377;2013
+América do Norte;México;78,53748364;2013
+Américas Central e do Sul;Argentina;45,78413303;2013
+Américas Central e do Sul;Brasil;39,03527991;2013
+Américas Central e do Sul;Chile;5,312584;2013
+Américas Central e do Sul;Colômbia;10,47725547;2013
+Américas Central e do Sul;Equador;0,670289572;2013
+Américas Central e do Sul;Peru;5,881962075;2013
+Américas Central e do Sul;Trinidad e Tobago;21,80022078;2013
+Américas Central e do Sul;Venezuela;32,89647693;2013
+Europa e Eurásia;Outros;6,890622285;2013
+Europa e Eurásia;Alemanha;84,97433333;2013
+Europa e Eurásia;Áustria;8,13544245;2013
+Europa e Eurásia;Azerbaijão;9,4029894;2013
+Europa e Eurásia;Bielorrússia;19,50865239;2013
+Europa e Eurásia;Bélgica;16,49108253;2013
+Europa e Eurásia;Bulgaria;2,7544;2013
+Europa e Eurásia;Cazaquistão;13,56226205;2013
+Europa e Eurásia;Croácia;2,653794444;2013
+Europa e Eurásia;Dinamarca;3,829782496;2013
+Europa e Eurásia;Eslováquia;5,5992;2013
+Europa e Eurásia;Eslovênia;0,810667068;2013
+Europa e Eurásia;Estônia;0,632777778;2013
+Europa e Eurásia;Espanha;30,32809603;2013
+Europa e Eurásia;Finlândia ;2,970666667;2013
+Europa e Eurásia;França;45,15240784;2013
+Europa e Eurásia;Grécia ;3,73136412;2013
+Europa e Eurásia;Holanda;38,19444444;2013
+Europa e Eurásia;Hungria;9,080138889;2013
+Europa e Eurásia;Irlanda;4,467215124;2013
+Europa e Eurásia;Itália;67,22915795;2013
+Europa e Eurásia;Letônia;1,4062125;2013
+Europa e Eurásia;Lituânia;2,5171972;2013
+Europa e Eurásia;Luxemburgo;1,03495705;2013
+Europa e Eurásia;Macedônia;0,150659672;2013
+Europa e Eurásia;Noruega;3,974049107;2013
+Europa e Eurásia;Polônia;17,41041667;2013
+Europa e Eurásia;Portugal;4,318342667;2013
+Europa e Eurásia;República Tcheca;8,078675;2013
+Europa e Eurásia;Reino Unido;76,33949315;2013
+Europa e Eurásia;Romênia;11,4427;2013
+Europa e Eurásia;Rússia;423,0481332;2013
+Europa e Eurásia;Suécia;1,082475;2013
+Europa e Eurásia;Suíça;3,22575;2013
+Europa e Eurásia;Turquia;43,966485;2013
+Europa e Eurásia;Turcomenistão;23,91557048;2013
+Europa e Eurásia;Ucrânia;45,24592306;2013
+Europa e Eurásia;Uzbequistão;43,34265623;2013
+Europa e Eurásia;Outros;9,250406378;2013
+Oriente Médio;Arábia Saudita;95,0285;2013
+Oriente Médio;Catar;34,98684887;2013
+Oriente Médio;Coveite;17,77040346;2013
+Oriente Médio;Emirados Árabes Unidos;64,42295626;2013
+Oriente Médio;Irã;160,43089;2013
+Oriente Médio;Iraque;7,072655;2013
+Oriente Médio;Israel;6,635475;2013
+Oriente Médio;Omã;21,67549203;2013
+Oriente Médio;Outros;20,98486699;2013
+África;África do Sul;4,0543686;2013
+África;África Central;2,574173905;2013
+África;África Ocidental;13,78660099;2013
+África;África Oriental;1,142406267;2013
+África;Argélia;32,1215125;2013
+África;Egito;49,501375;2013
+África;Marrocos;1,144918796;2013
+África;Outros Norte da África;12,30083139;2013
+Ásia-Pacífico;Austrália;37,17348249;2013
+Ásia-Pacífico;Bangladesh;21,95278663;2013
+Ásia-Pacífico;China;171,878542;2013
+Ásia-Pacífico;Cingapura;10,01524509;2013
+Ásia-Pacífico;Coreia do Sul;54,9758241;2013
+Ásia-Pacífico;Filipinas;3,360541251;2013
+Ásia-Pacífico;Hong Kong;2,514125833;2013
+Ásia-Pacífico;Índia;49,81075078;2013
+Ásia-Pacífico;Indonésia;41,44222107;2013
+Ásia-Pacífico;Japão;122,3257638;2013
+Ásia-Pacífico;Malásia;44,567323;2013
+Ásia-Pacífico;Nova Zelândia;4,679442154;2013
+Ásia-Pacífico;Paquistão;35,58572865;2013
+Ásia-Pacífico;Tailândia;48,86432567;2013
+Ásia-Pacífico;Taiwan;17,10279985;2013
+Ásia-Pacífico;Vietnã;9,409715;2013
+Ásia-Pacífico;Outros;8,625445072;2013
+América do Norte;Canadá;103,2466;2014
+América do Norte;Estados Unidos;722,2604554;2014
+América do Norte;México;80,13577547;2014
+Américas Central e do Sul;Argentina;46,23256127;2014
+Américas Central e do Sul;Brasil;41,34661731;2014
+Américas Central e do Sul;Chile;4,3989312;2014
+Américas Central e do Sul;Colômbia;11,38406185;2014
+Américas Central e do Sul;Equador;0,690499308;2014
+Américas Central e do Sul;Peru;6,744971097;2014
+Américas Central e do Sul;Trinidad e Tobago;21,3855447;2014
+Américas Central e do Sul;Venezuela;32,85027251;2014
+Europa e Eurásia;Outros;7,174617752;2014
+Europa e Eurásia;Alemanha;73,89502778;2014
+Europa e Eurásia;Áustria;7,454900734;2014
+Europa e Eurásia;Azerbaijão;9,854446055;2014
+Europa e Eurásia;Bielorrússia;18,56183874;2014
+Europa e Eurásia;Bélgica;14,4333837;2014
+Europa e Eurásia;Bulgaria;2,73615;2014
+Europa e Eurásia;Cazaquistão;14,97758623;2014
+Europa e Eurásia;Croácia;2,348571111;2014
+Europa e Eurásia;Dinamarca;3,289438226;2014
+Europa e Eurásia;Eslováquia;4,387225;2014
+Europa e Eurásia;Eslovênia;0,728081527;2014
+Europa e Eurásia;Estônia;0,494694444;2014
+Europa e Eurásia;Espanha;27,51861101;2014
+Europa e Eurásia;Finlândia ;2,655638889;2014
+Europa e Eurásia;França;37,9179208;2014
+Europa e Eurásia;Grécia ;2,844781009;2014
+Europa e Eurásia;Holanda;33,30555556;2014
+Europa e Eurásia;Hungria;8,118027778;2014
+Europa e Eurásia;Irlanda;4,328269416;2014
+Europa e Eurásia;Itália;59,40343263;2014
+Europa e Eurásia;Letônia;1,2637625;2014
+Europa e Eurásia;Lituânia;2,4017113;2014
+Europa e Eurásia;Luxemburgo;0,98059045;2014
+Europa e Eurásia;Macedônia;0,129250005;2014
+Europa e Eurásia;Noruega;4,301442928;2014
+Europa e Eurásia;Polônia;17,01361111;2014
+Europa e Eurásia;Portugal;4,125960228;2014
+Europa e Eurásia;República Tcheca;7,1898;2014
+Europa e Eurásia;Reino Unido;70,06811746;2014
+Europa e Eurásia;Romênia;11,03615;2014
+Europa e Eurásia;Rússia;423,5617174;2014
+Europa e Eurásia;Suécia;0,92245;2014
+Europa e Eurásia;Suíça;2,79425;2014
+Europa e Eurásia;Turquia;46,6465275;2014
+Europa e Eurásia;Turcomenistão;26,74123276;2014
+Europa e Eurásia;Ucrânia;38,4829646;2014
+Europa e Eurásia;Uzbequistão;45,31468891;2014
+Europa e Eurásia;Outros;9,375208982;2014
+Oriente Médio;Arábia Saudita;97,261;2014
+Oriente Médio;Catar;38,8439286;2014
+Oriente Médio;Coveite;17,57709305;2014
+Oriente Médio;Emirados Árabes Unidos;63,41588528;2014
+Oriente Médio;Irã;180,913571;2014
+Oriente Médio;Iraque;7,5308343;2014
+Oriente Médio;Israel;7,248275;2014
+Oriente Médio;Omã;21,25777886;2014
+Oriente Médio;Outros;20,93673593;2014
+África;África do Sul;4,298224547;2014
+África;África Central;2,74657299;2014
+África;África Ocidental;19,0461859;2014
+África;África Oriental;1,255106924;2014
+África;Argélia;36,091825;2014
+África;Egito;46,2187495;2014
+África;Marrocos;1,109615;2014
+África;Outros Norte da África;11,32003391;2014
+Ásia-Pacífico;Austrália;40,09991719;2014
+Ásia-Pacífico;Bangladesh;23,02227158;2014
+Ásia-Pacífico;China;188,3631356;2014
+Ásia-Pacífico;Cingapura;10,38951881;2014
+Ásia-Pacífico;Coreia do Sul;50,0039991;2014
+Ásia-Pacífico;Filipinas;3,534256701;2014
+Ásia-Pacífico;Hong Kong;2,416643673;2014
+Ásia-Pacífico;Índia;49,63900356;2014
+Ásia-Pacífico;Indonésia;41,46929839;2014
+Ásia-Pacífico;Japão;120,5247509;2014
+Ásia-Pacífico;Malásia;44,709209;2014
+Ásia-Pacífico;Nova Zelândia;5,105845871;2014
+Ásia-Pacífico;Paquistão;34,98668945;2014
+Ásia-Pacífico;Tailândia;49,94473217;2014
+Ásia-Pacífico;Taiwan;17,98975294;2014
+Ásia-Pacífico;Vietnã;9,85265;2014
+Ásia-Pacífico;Outros;10,10770741;2014
+América do Norte;Canadá;102,92725;2015
+América do Norte;Estados Unidos;743,5794943;2015
+América do Norte;México;77,98033642;2015
+Américas Central e do Sul;Argentina;46,65247716;2015
+Américas Central e do Sul;Brasil;43,66646207;2015
+Américas Central e do Sul;Chile;4,824285657;2015
+Américas Central e do Sul;Colômbia;11,21172938;2015
+Américas Central e do Sul;Equador;0,666375863;2015
+Américas Central e do Sul;Peru;7,06608455;2015
+Américas Central e do Sul;Trinidad e Tobago;20,92878349;2015
+Américas Central e do Sul;Venezuela;36,47385896;2015
+Europa e Eurásia;Outros;7,105573868;2015
+Europa e Eurásia;Alemanha;76,95361111;2015
+Europa e Eurásia;Áustria;7,909772505;2015
+Europa e Eurásia;Azerbaijão;11,1465525;2015
+Europa e Eurásia;Bielorrússia;17,44126844;2015
+Europa e Eurásia;Bélgica;15,82024243;2015
+Europa e Eurásia;Bulgaria;3,00035;2015
+Europa e Eurásia;Cazaquistão;15,3346237;2015
+Europa e Eurásia;Croácia;2,421231111;2015
+Europa e Eurásia;Dinamarca;3,309252611;2015
+Europa e Eurásia;Eslováquia;4,5118;2015
+Europa e Eurásia;Eslovênia;0,772434021;2015
+Europa e Eurásia;Estônia;0,439777778;2015
+Europa e Eurásia;Espanha;28,53234117;2015
+Europa e Eurásia;Finlândia ;2,256527778;2015
+Europa e Eurásia;França;40,76650463;2015
+Europa e Eurásia;Grécia ;3,07194082;2015
+Europa e Eurásia;Holanda;32,94444444;2015
+Europa e Eurásia;Hungria;8,709027778;2015
+Europa e Eurásia;Irlanda;4,376369;2015
+Europa e Eurásia;Itália;64,78638897;2015
+Europa e Eurásia;Letônia;1,27435;2015
+Europa e Eurásia;Lituânia;2,404197678;2015
+Europa e Eurásia;Luxemburgo;0,894273925;2015
+Europa e Eurásia;Macedônia;0,130195524;2015
+Europa e Eurásia;Noruega;4,509636647;2015
+Europa e Eurásia;Polônia;17,09880556;2015
+Europa e Eurásia;Portugal;4,819863296;2015
+Europa e Eurásia;República Tcheca;7,53945;2015
+Europa e Eurásia;Reino Unido;71,75483321;2015
+Europa e Eurásia;Romênia;10,409275;2015
+Europa e Eurásia;Rússia;409,6337525;2015
+Europa e Eurásia;Suécia;0,891175;2015
+Europa e Eurásia;Suíça;2,9855;2015
+Europa e Eurásia;Turquia;45,9590425;2015
+Europa e Eurásia;Turcomenistão;30,7623044;2015
+Europa e Eurásia;Ucrânia;30,10940388;2015
+Europa e Eurásia;Uzbequistão;48,55088496;2015
+Europa e Eurásia;Outros;9,925451852;2015
+Oriente Médio;Arábia Saudita;99,2275;2015
+Oriente Médio;Catar;44,06824736;2015
+Oriente Médio;Coveite;20,32273985;2015
+Oriente Médio;Emirados Árabes Unidos;70,97199534;2015
+Oriente Médio;Irã;191,9072545;2015
+Oriente Médio;Iraque;7,30109675;2015
+Oriente Médio;Israel;8,052575;2015
+Oriente Médio;Omã;22,97065503;2015
+Oriente Médio;Outros;22,39735837;2015
+África;África do Sul;4,417253976;2015
+África;África Central;3,17017419;2015
+África;África Ocidental;24,26376934;2015
+África;África Oriental;1,607924893;2015
+África;Argélia;37,9225;2015
+África;Egito;46,01877088;2015
+África;Marrocos;1,129837188;2015
+África;Outros Norte da África;11,05319634;2015
+Ásia-Pacífico;Austrália;42,10696996;2015
+Ásia-Pacífico;Bangladesh;25,85406276;2015
+Ásia-Pacífico;China;194,689528;2015
+Ásia-Pacífico;Cingapura;11,57865095;2015
+Ásia-Pacífico;Coreia do Sul;45,6497271;2015
+Ásia-Pacífico;Filipinas;3,322501173;2015
+Ásia-Pacífico;Hong Kong;3,083407706;2015
+Ásia-Pacífico;Índia;46,41222395;2015
+Ásia-Pacífico;Indonésia;41,04607231;2015
+Ásia-Pacífico;Japão;118,718936;2015
+Ásia-Pacífico;Malásia;43,946281;2015
+Ásia-Pacífico;Nova Zelândia;4,702680921;2015
+Ásia-Pacífico;Paquistão;36,53421127;2015
+Ásia-Pacífico;Tailândia;50,96095611;2015
+Ásia-Pacífico;Taiwan;19,24085441;2015
+Ásia-Pacífico;Vietnã;10,2869;2015
+Ásia-Pacífico;Outros;12,01196769;2015
+América do Norte;Canadá;109,45905;2016
+América do Norte;Estados Unidos;750,2779648;2016
+América do Norte;México;91,84006292;2016
+Américas Central e do Sul;Argentina;48,34543496;2016
+Américas Central e do Sul;Brasil;37,71837645;2016
+Américas Central e do Sul;Chile;5,916300789;2016
+Américas Central e do Sul;Colômbia;10,64883353;2016
+Américas Central e do Sul;Equador;0,67826692;2016
+Américas Central e do Sul;Peru;7,605224601;2016
+Américas Central e do Sul;Trinidad e Tobago;18,58337943;2016
+Américas Central e do Sul;Venezuela;38,34022631;2016
+Europa e Eurásia;Outros;7,309978362;2016
+Europa e Eurásia;Alemanha;84,88475;2016
+Europa e Eurásia;Áustria;8,282873752;2016
+Europa e Eurásia;Azerbaijão;10,9306475;2016
+Europa e Eurásia;Bielorrússia;17,65690265;2016
+Europa e Eurásia;Bélgica;16,14832076;2016
+Europa e Eurásia;Bulgaria;3,12505;2016
+Europa e Eurásia;Cazaquistão;15,80606646;2016
+Europa e Eurásia;Croácia;2,524353333;2016
+Europa e Eurásia;Dinamarca;3,365253265;2016
+Europa e Eurásia;Eslováquia;4,530275;2016
+Europa e Eurásia;Eslovênia;0,819060127;2016
+Europa e Eurásia;Estônia;0,483361111;2016
+Europa e Eurásia;Espanha;29,11602899;2016
+Europa e Eurásia;Finlândia ;1,997611111;2016
+Europa e Eurásia;França;44,56107701;2016
+Europa e Eurásia;Grécia ;3,998519604;2016
+Europa e Eurásia;Holanda;34,52777778;2016
+Europa e Eurásia;Hungria;9,334416667;2016
+Europa e Eurásia;Irlanda;4,920653;2016
+Europa e Eurásia;Itália;68,04046352;2016
+Europa e Eurásia;Letônia;1,3195875;2016
+Europa e Eurásia;Lituânia;2,142250536;2016
+Europa e Eurásia;Luxemburgo;0,824701825;2016
+Europa e Eurásia;Macedônia;0,204733357;2016
+Europa e Eurásia;Noruega;4,372412742;2016
+Europa e Eurásia;Polônia;18,25761111;2016
+Europa e Eurásia;Portugal;5,078813347;2016
+Europa e Eurásia;República Tcheca;8,159975;2016
+Europa e Eurásia;Reino Unido;80,96592226;2016
+Europa e Eurásia;Romênia;10,40445;2016
+Europa e Eurásia;Rússia;420,196367;2016
+Europa e Eurásia;Suécia;0,982925;2016
+Europa e Eurásia;Suíça;3,1365;2016
+Europa e Eurásia;Turquia;44,4232125;2016
+Europa e Eurásia;Turcomenistão;30,85299902;2016
+Europa e Eurásia;Ucrânia;30,29707719;2016
+Europa e Eurásia;Uzbequistão;41,63407274;2016
+Europa e Eurásia;Outros;10,12349181;2016
+Oriente Médio;Arábia Saudita;105,317;2016
+Oriente Médio;Catar;43,09031032;2016
+Oriente Médio;Coveite;21,06762404;2016
+Oriente Médio;Emirados Árabes Unidos;72,48717171;2016
+Oriente Médio;Irã;201,3527689;2016
+Oriente Médio;Iraque;9,8955781;2016
+Oriente Médio;Israel;9,24945;2016
+Oriente Médio;Omã;22,8687745;2016
+Oriente Médio;Outros;23,56766182;2016
+África;África do Sul;4,602845757;2016
+África;África Central;3,6966773;2016
+África;África Ocidental;21,63711779;2016
+África;África Oriental;2,02833066;2016
+África;Argélia;38,59625;2016
+África;Egito;49,3541125;2016
+África;Marrocos;1,14819546;2016
+África;Outros Norte da África;12,10483392;2016
+Ásia-Pacífico;Austrália;41,72607232;2016
+Ásia-Pacífico;Bangladesh;26,45094657;2016
+Ásia-Pacífico;China;209,4410888;2016
+Ásia-Pacífico;Cingapura;11,90210866;2016
+Ásia-Pacífico;Coreia do Sul;47,6436906;2016
+Ásia-Pacífico;Filipinas;3,809864249;2016
+Ásia-Pacífico;Hong Kong;3,165340739;2016
+Ásia-Pacífico;Índia;50,82949577;2016
+Ásia-Pacífico;Indonésia;38,26682005;2016
+Ásia-Pacífico;Japão;116,4174455;2016
+Ásia-Pacífico;Malásia;41,94278411;2016
+Ásia-Pacífico;Nova Zelândia;4,89674164;2016
+Ásia-Pacífico;Paquistão;38,28259095;2016
+Ásia-Pacífico;Tailândia;50,56425511;2016
+Ásia-Pacífico;Taiwan;19,98935309;2016
+Ásia-Pacífico;Vietnã;10,23865;2016
+Ásia-Pacífico;Outros;11,39737302;2016
+América do Norte;Canadá;115,7451679;2017
+América do Norte;Estados Unidos;739,4524587;2017
+América do Norte;México;87,60003957;2017
+Américas Central e do Sul;Argentina;48,47736625;2017
+Américas Central e do Sul;Brasil;38,34246004;2017
+Américas Central e do Sul;Chile;5,997437358;2017
+Américas Central e do Sul;Colômbia;10,00902031;2017
+Américas Central e do Sul;Equador;0,609634174;2017
+Américas Central e do Sul;Peru;6,743276168;2017
+Américas Central e do Sul;Trinidad e Tobago;18,45680332;2017
+Américas Central e do Sul;Venezuela;37,64825572;2017
+Europa e Eurásia;Outros;7,148938127;2017
+Europa e Eurásia;Alemanha;90,15865459;2017
+Europa e Eurásia;Áustria;9,005945664;2017
+Europa e Eurásia;Azerbaijão;10,5864325;2017
+Europa e Eurásia;Bielorrússia;17,99724828;2017
+Europa e Eurásia;Bélgica;16,37967156;2017
+Europa e Eurásia;Bulgaria;3,217516667;2017
+Europa e Eurásia;Cazaquistão;16,29279064;2017
+Europa e Eurásia;Croácia;2,687783656;2017
+Europa e Eurásia;Dinamarca;3,232919764;2017
+Europa e Eurásia;Eslováquia;4,500825;2017
+Europa e Eurásia;Eslovênia;0,862206026;2017
+Europa e Eurásia;Estônia;0,459099743;2017
+Europa e Eurásia;Espanha;32,00162588;2017
+Europa e Eurásia;Finlândia ;1,835388889;2017
+Europa e Eurásia;França;44,74171103;2017
+Europa e Eurásia;Grécia ;4,822167834;2017
+Europa e Eurásia;Holanda;36,05759489;2017
+Europa e Eurásia;Hungria;9,932305556;2017
+Europa e Eurásia;Irlanda;5,071031679;2017
+Europa e Eurásia;Itália;72,10519571;2017
+Europa e Eurásia;Letônia;1,1963875;2017
+Europa e Eurásia;Lituânia;2,229287199;2017
+Europa e Eurásia;Luxemburgo;0,806101784;2017
+Europa e Eurásia;Macedônia;0,263054587;2017
+Europa e Eurásia;Noruega;4,52472798;2017
+Europa e Eurásia;Polônia;19,14237142;2017
+Europa e Eurásia;Portugal;6,150222868;2017
+Europa e Eurásia;República Tcheca;8,374807675;2017
+Europa e Eurásia;Reino Unido;78,78406416;2017
+Europa e Eurásia;Romênia;11,8914;2017
+Europa e Eurásia;Rússia;424,7562728;2017
+Europa e Eurásia;Suécia;0,793175;2017
+Europa e Eurásia;Suíça;3,149946424;2017
+Europa e Eurásia;Turquia;51,65788656;2017
+Europa e Eurásia;Turcomenistão;28,39233038;2017
+Europa e Eurásia;Ucrânia;29,7737119;2017
+Europa e Eurásia;Uzbequistão;41,63678618;2017
+Europa e Eurásia;Outros;10,80522116;2017
+Oriente Médio;Arábia Saudita;111,425386;2017
+Oriente Médio;Catar;47,39311868;2017
+Oriente Médio;Coveite;22,15400544;2017
+Oriente Médio;Emirados Árabes Unidos;72,16785684;2017
+Oriente Médio;Irã;214,4371412;2017
+Oriente Médio;Iraque;11,96244415;2017
+Oriente Médio;Israel;9,910125;2017
+Oriente Médio;Omã;23,30714113;2017
+Oriente Médio;Outros;23,72139988;2017
+África;África do Sul;4,485345757;2017
+África;África Central;3,919538165;2017
+África;África Ocidental;22,36229443;2017
+África;África Oriental;2,168175651;2017
+África;Argélia;38,885;2017
+África;Egito;55,9761125;2017
+África;Marrocos;1,138084863;2017
+África;Outros Norte da África;12,8395248;2017
+Ásia-Pacífico;Austrália;41,8617072;2017
+Ásia-Pacífico;Bangladesh;26,58994993;2017
+Ásia-Pacífico;China;240,43837;2017
+Ásia-Pacífico;Cingapura;12,2876539;2017
+Ásia-Pacífico;Coreia do Sul;49,3686522;2017
+Ásia-Pacífico;Filipinas;3,774427056;2017
+Ásia-Pacífico;Hong Kong;3,154784474;2017
+Ásia-Pacífico;Índia;54,19637934;2017
+Ásia-Pacífico;Indonésia;39,16812847;2017
+Ásia-Pacífico;Japão;117,0794191;2017
+Ásia-Pacífico;Malásia;42,82203711;2017
+Ásia-Pacífico;Nova Zelândia;4,857259593;2017
+Ásia-Pacífico;Paquistão;40,73820333;2017
+Ásia-Pacífico;Tailândia;50,0837944;2017
+Ásia-Pacífico;Taiwan;22,16287752;2017
+Ásia-Pacífico;Vietnã;9,453345545;2017
+Ásia-Pacífico;Outros;11,60017488;2017
