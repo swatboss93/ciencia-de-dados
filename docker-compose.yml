@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: '.'
+    image: continuumio/miniconda3
+    command: 'server'
+    ports:
+      - '8888:8888'
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/app
